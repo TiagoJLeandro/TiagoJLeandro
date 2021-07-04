@@ -11,6 +11,7 @@ Sou um desenvolvedor Web, apaixonado em aprender e ajudar pessoas.
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -23,7 +24,7 @@ Sou um desenvolvedor Web, apaixonado em aprender e ajudar pessoas.
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/TiagoJLeandro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoJLeandro&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoJLeandro&layout=compact" />
 </a>
