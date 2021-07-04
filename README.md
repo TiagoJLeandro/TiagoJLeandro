@@ -26,7 +26,7 @@ Sou um desenvolvedor Web, apaixonado em aprender e ajudar pessoas.
 
 <a href="https://github.com/TiagoJLeandro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoJLeandro&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoJLeandro" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoJLeandro&theme=buefy&layout=compact" />
 </a>
 
 <br/>
