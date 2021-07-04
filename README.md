@@ -1,9 +1,11 @@
-<h2> Olá, sou Tiago.</h2>
+### Olá, pessoal! 👋
 
-<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🎓 &nbsp; Estou terminando o Curso Técnico em Informática sobre Desenvolvimento de Sistemas.
-- 🌱 &nbsp; Aprendendo mais sobre Flask, Código limpo, Arquitetura Limpa.
+Sou um desenvolvedor Web, apaixonado em aprender e ajudar pessoas.
+
+- 📚 Atualmente estudando Flask, Código Limpo e Arquitetura Limpa.
+- 👯 Estou a procura de um emprego na Área de Desenvolvimento Web seja ela Back ou Front-end. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
