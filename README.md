@@ -22,11 +22,10 @@ Sou um desenvolvedor Web, apaixonado em aprender e ajudar pessoas.
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<br/>
 
 <a href="https://github.com/TiagoJLeandro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoJLeandro&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoJLeandro&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoJLeandro&show_icons=true&theme=graywhite" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoJLeandro&theme=graywhite&layout=compact" />
 </a>
 
 <br/>
