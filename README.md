@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-Sou um desenvolvedor Web, apaixonado em aprender e ajudar pessoas.
+Sou um desenvolvedor Web, apaixonado por aprender e ajudar pessoas.
 
 - 📚 Atualmente estudando Flask, Código Limpo e Arquitetura Limpa.
 - 👯 A procura de um emprego na Área de Desenvolvimento Web seja Back ou Front-end. 
