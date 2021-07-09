@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor Web, apaixonado por aprender e ajudar pessoas.
 
-- 📚 Atualmente estudando Flask, Código Limpo e Arquitetura Limpa.
+- 📚 Atualmente estudando Flask e Código Limpo.
 - 👯 A procura de um emprego na Área de Desenvolvimento Web seja Back ou Front-end. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
