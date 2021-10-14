@@ -5,7 +5,7 @@
 Sou um desenvolvedor em constante aprendizagem.
 
 - 📚 Atualmente estudando banco de dados.
-- 👯 A procura de um emprego na Área de Desenvolvimento do Backend. 
+- 👯 A procura de um emprego na Área de Desenvolvimento Backend. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
