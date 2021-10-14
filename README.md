@@ -2,10 +2,10 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-Sou um desenvolvedor Web, apaixonado por aprender e ajudar pessoas.
+Sou um desenvolvedor em constante aprendizagem.
 
-- 📚 Atualmente estudando Flask e Código Limpo.
-- 👯 A procura de um emprego na Área de Desenvolvimento Web seja Back ou Front-end. 
+- 📚 Atualmente estudando banco de dados.
+- 👯 A procura de um emprego na Área de Desenvolvimento do Backend. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
